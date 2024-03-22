@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Green Iguana",
+        "reptile_type": "Lizard"
+    },
+    {
+        "name": "American Alligator",
+        "reptile_type": "Crocodilian"
+    },
+    {
+        "name": "Leatherback Sea Turtle",
+        "reptile_type": "Turtle"
+    },
+    {
+        "name": "Komodo Dragon",
+        "reptile_type": "Lizard"
+    },
+    {
+        "name": "King Cobra",
+        "reptile_type": "Snake"
+    }
+]
